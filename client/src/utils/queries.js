@@ -93,7 +93,7 @@ export const QUERY_ME_BASIC = gql`
       friendCount
       friends {
         _id
-        username
+        username 
       }
     }
   }
